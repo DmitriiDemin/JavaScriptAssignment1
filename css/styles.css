@@ -1,0 +1,29 @@
+#noun1{
+    background-color: blueviolet;
+}
+#verb{
+    background-color: aqua;
+}
+#adjective{
+    background-color: greenyellow;
+}
+#noun2{
+    background-color: orange;
+}
+#setting{
+    background-color: palevioletred;
+}
+#playback{
+    background-color: brown;
+}
+#random{
+    background-color: yellow;
+}
+section{
+    text-align: center;
+}
+body{
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
